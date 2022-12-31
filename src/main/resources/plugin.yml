@@ -1,0 +1,13 @@
+name: xKenMsg
+version: '${project.version}'
+api-version: 1.13
+main: com.github.xKenKOfficial.Msg.Basic.Main
+prefix: xKenMsg
+author: xKenKOfficial
+authors: [ xKenKOfficial ]
+description: Plugin na prywatne wiadomosci miedzy graczami na serwerze.
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  msg:
+  socialspy:

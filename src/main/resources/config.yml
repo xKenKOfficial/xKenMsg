@@ -1,0 +1,32 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenMsg"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji do komendy:
+no_permission: "&4Blad&8: &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz jest offline:
+offline_player: "&4Blad&8: &cTego gracza nie ma na serwerze!"
+
+# Tutaj mozna ustawic wiadomosc, jesli podano za duzo argumentow przy komendzie:
+wrong_args: "&4Blad&8: &cZa duza ilosc argumentow!"
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator wlaczyl socialspy:
+admin_socialspy_enable: "&8>> &aOd teraz widzisz prywatne wiadomosci graczy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator wylaczyl socialspy:
+admin_socialspy_disable: "&8>> &cOd teraz nie widzisz prywatnych wiadomosci graczy!"
+
+# Tutaj mozna ustawic wiadomosc socialspy, ktora wysyla sie do administratora (gdy ma wlaczone socialspy), jesli gracze wysylaja do siebie prywatne wiadomosci:
+socialspy_admin_message: "&8[&cSocial&4Spy&8] &f{GRACZ1} &7do &b{GRACZ2}&8: &7{WIADOMOSC}"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /msg:
+msg_command_usage: "&4Blad&8: &7Poprawne uzycie&8: &b/msg (gracz) (wiadomosc)"
+
+# Tutaj mozna ustawic wiadomosc do wysylajacego, jesli wyslal prywatna wiadomosc:
+msg_sender_message: "&8[&bPrivate&8] &bTy &7do &3{GRACZ}&8: &7{WIADOMOSC}"
+
+# Tutaj mozna ustawic wiadomosc do odbiorcy prywatnej wiadomosc, jesli ja otrzymal:
+msg_recipient_message: "&8[&bPrivate&8] &b{GRACZ} &7do &3Ja&8: &7{WIADOMOSC}"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
